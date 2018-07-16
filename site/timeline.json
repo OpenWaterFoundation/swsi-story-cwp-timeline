@@ -6,7 +6,12 @@
 			},
 			"text": {
 				"headline": "The Statewide Water Supply Initiative (SWSI) is first completed.",
-				"text": "The Department of Natural Resources Colorado Water Conservation Board stated that for the first time they know how much water Colorado will need in 2030, how short Colorado is on water, and what can be done.<br>View source <a href='http://cwcbweblink.state.co.us/WebLink/ElectronicFile.aspx?docid=144066&searchid=2c16c041-d0b2-4ec5-ac42-8b95aa0c04e3&dbid=0'>here</a>"
+				"text": "The <a href='http://cwcbweblink.state.co.us/WebLink/ElectronicFile.aspx?docid=144066&searchid=2c16c041-d0b2-4ec5-ac42-8b95aa0c04e3&dbid=0'>Statewide Water Supply Initiative (SWSI)</a>, first completed in 2004, was a comprehensive analysis of existing water supplies and existing and projected water demands through the year 2030. One of the major findings from SWSI was that there will be a gap in water supply by 2030 for Colorado as a whole and for nearly all of the 8 major basins (figure at left)."
+			},
+			"media": {
+				"url": "images/swsi2004-gap.png",
+				"caption": "Figure ES-8: Effectiveness of IPPs in Meeting 2030 M&I and SSI Demands.",
+				"credit": "<a href='http://cwcbweblink.state.co.us/WebLink/ElectronicFile.aspx?docid=144066&searchid=2c16c041-d0b2-4ec5-ac42-8b95aa0c04e3&&dbid=0'>SWSI 2004</s>"
 			}
 		},{
 			"start_date": { 
@@ -14,7 +19,7 @@
 			},
 			"text": {
 				"headline": "SWSI 2010 is released, which updated the first study and included an analysis of water supply demands to 2050.",
-				"text": "View source <a href='http://cwcb.state.co.us/water-management/water-supply-planning/Pages/SWSI2010.aspx'>here</a>"
+				"text": "<a href='http://cwcb.state.co.us/water-management/water-supply-planning/Pages/SWSI2010.aspx'>SWSI 2010</a> updated the SWSI 2004 study. <br>Key elements of the update were: <ul><li>an analysis of water supply demands to 2050 (SWSI 2004 was to 2030)</li> <li>a summary of environmental and recreational needs in each basin, as identified by basin roundtables</li> <li>an analysis of supply availability in the Colorado River</li> <li>implementation elements associated with identified projects, water conservation, agricultural transfers and development of new water supplies</li> <li>the development of estimated costs of implementing water supply strategies.</li></ul>"
 			}
 		},{
 			"start_date": {
@@ -22,7 +27,7 @@
 			},
 			"text": {
 				"headline": "The South Platte and Metro basins complete a Basin Implementation Plan (BIP), which includes recommendations for meeting the water supply gap.",
-				"text": "View source <a href='http://www.colorado.gov/pacific/sites/default/files/SouthPlatteBasinImplementationPlan-04172015.pdf'>here</a>"
+				"text": "The South Platte and Metro basins elected to create a single Basin Implementation Plan (BIP) focusing on how to implement SWSI recommendations to meet the water supply gap. The <a href='http://www.colorado.gov/pacific/sites/default/files/SouthPlatteBasinImplementationPlan-04172015.pdf'>South Platte Basin Implementation Plan</a> was completed in 2015 and continued to use the same general categories as SWSI 2010 to describe municipal and industrial IPPs."
 			}
 		},{
 			"start_date": {
